@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fabrice Magnan de Bellevue</h1>
-- 📫 How to reach me **magnan.fabriec@gmail.com**
+- 📫 How to reach me **magnan.fabrice@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
