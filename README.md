@@ -3,11 +3,11 @@
 
 - 🔭 Je travails actuellement sur un projet personnel qui permet de gérer ses comptes bancaires personnels. J'utilise du PHP - JS - HTML - SCSS **Le projet s'appel : Gestion des Comptes**
 
-- 👨‍💻 Tous mes projets sont disponibles sur le lien : [http://www.fabwebprojects.fr/](http://www.fabwebprojects.fr/)
+- 👨‍💻 Tous mes projets sont disponibles sur le lien : [https://www.fabwebprojects.fr/](https://www.fabwebprojects.fr/)
 
 - 📫 Pour me contacter : **magnan.fabrice@gmail.com**
 
-- 📄 pour en savoir plus sur mon expérience : [http://www.fabwebprojects.fr/](http://www.fabwebprojects.fr/)
+- 📄 pour en savoir plus sur mon expérience : [https://www.fabwebprojects.fr/](https://www.fabwebprojects.fr/)
 
 <h3 align="center">Réseaux Sociaux:</h3>
 <p align="center">
