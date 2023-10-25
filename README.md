@@ -3,7 +3,7 @@
 
 - 🔭 Je suis en formation actuellement avec OpenClassroom pour être diplômer **Intégrateur Web**
 - 
-- 🔭 Je travails actuellement sur un projet personnel qui permet de gérer ses comptes bancaires personnels. J'utilise du PHP - JS - HTML - SCSS **Le projet s'appel : Gestion des Comptes**
+- 🔭 Je travails actuellement sur un projet personnel qui permet de gérer ses comptes bancaires personnels. J'utilise du PHP - JS - HTML - SCSS **Le projet s'appel : Mon Budget Perso**
 
 - 👨‍💻 Tous mes projets sont disponibles sur le lien : [https://www.fabwebprojects.fr/](https://www.fabwebprojects.fr/)
 
