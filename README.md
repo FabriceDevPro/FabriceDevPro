@@ -15,7 +15,7 @@
 
 <h3 align="center">Réseaux Sociaux:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/fabrice-magnan-de-bellevue-631922193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/fabrice-magnan-de-bellevue-631922193" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fabrice-magnan-de-bellevue-631922193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/fabrice-magnan-de-bellevue" height="30" width="40" /></a>
 </p>
 
 <h3 align="Center">Languages and Tools:</h3>
