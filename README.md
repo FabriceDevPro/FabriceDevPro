@@ -20,6 +20,7 @@
 
 ### 🚀 Projets & Services
 
+- **Portfolio** : Explorez toutes mes réalisations et projets sur mon [Portfolio](https://portfolio.fabwebprojects.fr/).
 - **FabWebProjects** : Découvrez mes projets, services et le portfolio de mon travail sur [FabWebProjects](https://fabwebprojects.fr/). Je m'engage à transformer vos idées en solutions web concrètes.
 - **Mon Budget Perso** : Gérez vos finances personnelles avec [Mon Budget Perso](https://fabwebprojects.fr/). Une application intuitive pour une gestion efficace de vos comptes bancaires.
 
