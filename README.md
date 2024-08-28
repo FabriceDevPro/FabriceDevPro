@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Fabrice-Perso.Fabrice-Perso" alt="visitor badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=FabriceDevPro.FabriceDevPro" alt="visitor badge" />
 </div>
 
 <br/>
@@ -103,7 +103,7 @@
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fabrice-Perso&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabrice-perso&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabrice-perso&" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FabriceDevPro&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FabriceDevPro&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FabriceDevPro&" alt="Streak Stats" />
 </div>
