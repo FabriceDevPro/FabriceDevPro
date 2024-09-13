@@ -79,7 +79,7 @@
 
 ### Réseaux de FabWebProjects
 <div align="center">
-  <img src="https://www.fabwebprojects.fr/_next/image?url=%2FlogoTitleNoBg.webp&w=128&q=75" alt="FabWebProjects Logo" style="width: 150px; margin-bottom: 10px;" />
+  <img src="https://apifreelance.fabwebprojects.fr/profile_images/logo.png" alt="FabWebProjects Logo" style="width: 150px; margin-bottom: 10px;" />
   <br/>
   <a href="https://www.linkedin.com/company/fabwebprojects/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Professionnel" />
