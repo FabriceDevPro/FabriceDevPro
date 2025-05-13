@@ -5,7 +5,7 @@
 # 👋 Bonjour, je suis Fabrice Magnan de Bellevue  
 ### Développeur Web Freelance | Fondateur de FabWebProjects
 
-Passionné par le web depuis 2016, je conçois des solutions modernes et sur mesure en tant que freelance. Autodidacte confirmé, j’ai consolidé mes compétences avec une formation professionnelle OpenClassrooms et je développe aujourd’hui des projets complets pour des particuliers, entreprises et agences.
+Passionné par le web depuis 2016, je conçois des solutions modernes et sur mesure en tant que freelance. Autodidacte confirmé, j’ai consolidé mes compétences avec une formation professionnelle OpenClassrooms et je développe aujourd’hui des projets complets pour des particuliers, entreprises.
 
 ---
 
@@ -52,8 +52,6 @@ Passionné par le web depuis 2016, je conçois des solutions modernes et sur mes
 <p align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="MariaDB" height="50" />
 </p>
