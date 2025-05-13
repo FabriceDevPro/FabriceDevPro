@@ -69,7 +69,6 @@ Passionné par le web depuis 2016, je conçois des solutions modernes et sur mes
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FabriceDevPro&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FabriceDevPro&layout=compact&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FabriceDevPro&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
