@@ -14,7 +14,7 @@ Passionné par le web depuis 2016, je conçois des solutions modernes et sur mes
 - 🎯 **Fondateur de FabWebProjects**  
   Création de sites web, plateformes sur mesure et outils internes pour répondre à des besoins concrets.
 
-- 🔧 **Projet actuel** : [**Ma Compta Pro**](https://ma-compta-pro.fabwebprojects.fr/)  
+- 🔧 **Projet actuel** : [**Ma Compta +**](https://macompta.fabwebprojects.fr/)  
   Outil de gestion comptable en ligne, développé pour un usage interne partagé avec un autre développeur indépendant.  
   Fonctions : écritures, rapprochements, récurrences, bilans, multi-utilisateurs, API REST…  
   ➤ Stack : Laravel, React, Tailwind, MySQL. Utilisé en production à titre personnel.
@@ -28,7 +28,7 @@ Passionné par le web depuis 2016, je conçois des solutions modernes et sur mes
 
 - 🔗 **[Portfolio](https://portfolio.fabwebprojects.fr/)** – Présentation de projets clients & personnels
 - 🌐 **[Site Freelance – FabWebProjects](https://fabwebprojects.fr/)** – Offres, services & contact
-- 💼 **[Ma Compta Pro](https://ma-compta-pro.fabwebprojects.fr/)** – Plateforme interne de gestion comptable (usage personnel partagé)
+- 💼 **[Ma Compta +](https://macompta.fabwebprojects.fr/)** – Plateforme interne de gestion comptable (usage personnel partagé)
 
 ---
 
@@ -88,7 +88,7 @@ Passionné par le web depuis 2016, je conçois des solutions modernes et sur mes
 </p>
 
 <p align="center">
-  <img src="https://apifreelance.fabwebprojects.fr/profile_images/logo.png" alt="FabWebProjects Logo" width="150" />
+  <img src="https://apiportfolio.fabwebprojects.fr/profile_images/logo.png" alt="FabWebProjects Logo" width="150" />
   <br/>
   <a href="https://www.linkedin.com/company/fabwebprojects/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Pro" />
